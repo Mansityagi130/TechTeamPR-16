@@ -30,22 +30,32 @@ Features:
 3. Client-side form validation using JavaScript.
 4. Responsive design to ensure compatibility with various devices and screen sizes.
 
-Instructions for Running the Project:
+Project goals:
 
-1. Clone the repository to your local machine.  
-   git clone <repository_URL>
-   
-2. Navigate to the project directory.   
-   cd---------------
-   
-3. Open the ---------------file in your preferred web browser.
+1.Optimized User Experience:
+Create a website that's easy to use, where people can find what they want quickly. Make sure it looks good on phones, tablets, and computers so everyone can shop comfortably.
+2.Secure Transactions:
+Keep people's payment details safe from hackers. Use secure technology to encrypt their info when they buy something, so they feel confident and protected.
+3.Efficient Order Management:
+Make the buying process smooth and fast. Once someone decides to buy, guide them through the steps easily. Let them know when their order is confirmed and when it's on the way.
+4.Effective Marketing:
+Show off your best deals and new products where people can see them easily. Send out emails about sales and discounts so customers don't miss out.
+5.Scalability and Performance:
+Build the website to handle lots of visitors and purchases without slowing down or crashing. This way, even when the site gets popular, it still works smoothly for everyone.
 
 Contributions:
 
-- Manager: Coordinates team activities, ensuring project goals are achieved on schedule.
-- Developer: Constructs the survey form employing HTML, CSS, and JavaScript, focusing on functionality and adaptability.
-- Tester: Performs extensive testing on the survey form to detect and document any glitches or concerns.
+-MANSI TYAGI(2310990733)- Manager: Coordinates team activities, ensuring project goals are achieved on schedule.
+-MANSHIKA(2310990732)- Developer: Constructs the survey form employing HTML, CSS, and JavaScript, focusing on functionality and adaptability.
+-MANWINDER(2310990734)- Tester: Performs extensive testing on the survey form to detect and document any glitches or concerns.
 
 Acknowledgments:
 
 We would like to express our gratitude to Mr. Vibhu Sharma for their guidance and support throughout the development of this project. Additionally, we thank our peers for their valuable feedback and contributions.
+
+-----------------------------------------------------------------------------
+
+DEVELOPER:
+
+
+
