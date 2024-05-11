@@ -62,12 +62,7 @@ Acknowledgments:
 
 We would like to express our gratitude to Mr. Vibhu Sharma for their guidance and support throughout the development of this project. Additionally, we thank our peers for their valuable feedback and contributions.
 
------------------------------------------------------------------------------
-
-DEVELOPER:
-Manshika(2310990733) our project developer have uploaded the 1st version of our team's project.
-
-tester:
+---------------------------------------------------------------------------------
 
 
 
